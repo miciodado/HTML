@@ -1,1 +1,7 @@
+<html>
+<head>
+<style type="text/css"
+H1 { font-size:40px; font-family:arial; color:green; text-align:center; }
+H2 { font-size:36px; font-family:arial; color:yellow }
+H3 { font-size:20px; font-family:arial color:blue }
 
